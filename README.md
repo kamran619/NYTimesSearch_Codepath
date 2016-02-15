@@ -10,6 +10,7 @@ App: A news reader app which lets users search the New York times article databa
 - [x] Subsequent searches will have any filters applied to the search results. (1 point)
 - [x] User can tap on any article in results to view the contents in an embedded browser. (2 points)
 - [x] User can scroll down "infinitely" to continue loading more news articles. The maximum number of articles is limited by the API search. (1 point)
+
 ## Extra
 - [x] Robust error handling, check if internet is available, handle error cases, network failures. (1 point)
 - [x] Use the ActionBar SearchView or custom layout as the query box instead of an EditText. (1 point)
